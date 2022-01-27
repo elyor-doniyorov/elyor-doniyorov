@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: to gain more experience and grow
 - ⚡ Fun fact: I love travelling and networking
 - 📫 Reach me on doniyorovelyor@gmail.com
-- 🔭 Portfolio: https://elyor-doniyorov.netlify.app
+- 🔭 Portfolio: https://portfolio-elyor.herokuapp.com/
 
 
 ### Connect with me:
