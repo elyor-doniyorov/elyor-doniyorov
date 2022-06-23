@@ -1,4 +1,4 @@
-### Hi there, I'm Elyor - currently Microverse's Student👋
+### Hi there, I'm Elyor - currently looking for a job👋
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
